@@ -1,4 +1,4 @@
-public class H {
+public class Astxanish {
 public static void main(String args[]) {
 int a=9;
 for (int i=1; i<=a; i++) {
